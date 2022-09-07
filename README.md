@@ -1,11 +1,12 @@
 # Hi There
 
 Hi there 👋
-😄 Toan Dao | 😄🏻‍💻 Computer Science | 🌏 San Jose, California, USA
+😄 Toan Dao | 😄🏻‍💻 Computer Science - System Analyst | 🌏 Austin, Texas, USA
+Former San Jose, Bay Area Resident
 
 About me:
 
-🔭 I’m currently working on BS degree of Computer Science
+🔭 Computer Science - System Analyst
 🌱 I write code in Java, Python, C++, Javascript, ...
 😎 Database in MySQL and MongoDB
 👯 I’m looking to collaborate on some cool project
